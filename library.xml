@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<tablename>sys_user</tablename>
+	<pkgname>com.shunde.TT</pkgname>
+	<jsp id="list">
+		<title>列表展示</title>
+		<tipcontent>*展示列表信息</tipcontent>
+	</jsp>
+	<codepoint id="list">
+		<selconkey name="account" showtype="1"></selconkey>
+		<selconkey name="cnname" showtype="2"></selconkey>
+	</codepoint>
+</books>
